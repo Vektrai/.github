@@ -2,6 +2,7 @@
 **Vektrai** is an AI consulting agency specializing in delivering cutting-edge artificial intelligence solutions tailored to meet your unique business needs.
 
 ### What We Do 🛠️
+- **AI Consulting**: 🗣️ Providing expert guidance on AI adoption, implementation, and scaling for your business.
 - **AI Strategy Development**: 🧠 Crafting robust AI strategies to ensure successful adoption and long-term impact.
 - **Custom Model Fine-Tuning**: 🔧 Adapting large language models and AI systems to enhance performance for niche applications.
 - **NLP Applications**: 💬 Implementing advanced Natural Language Processing techniques to power real-world solutions.
