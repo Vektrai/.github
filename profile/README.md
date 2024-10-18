@@ -1,3 +1,5 @@
+![banner vektrai](https://github.com/user-attachments/assets/d81d0e70-57c9-411e-94e3-6ad2be222ded)
+
 ### About Us 🤖
 **Vektrai** is an AI consulting agency specializing in delivering cutting-edge artificial intelligence solutions tailored to meet your unique business needs.
 
